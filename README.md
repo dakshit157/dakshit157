@@ -29,6 +29,9 @@ const daxit = {
   ],
   projects: [
     "GirRakshak AI"
+    "Career-match-AI"
+    "Heart-diesease-prefiction-model"
+    "DataLens"
   ],
   certifications: [],
   status: "Currently strengthening my Data Science foundation",
@@ -68,8 +71,11 @@ const daxit = {
 
 </div>
 
-**GirRakshak AI** — AI-Based Gir Forest Human-Wildlife Conflict Mitigation System.
+**DataLens — AI-Powered Data Analysis and Visualization Platform.
 
+**Heart Disease Prediction — Machine Learning-Based Heart Disease Prediction System.
+
+**CareerMatch AI — AI-Powered Resume Analysis and Job Matching System.
 | Technology |
 |---|
 | Python |
